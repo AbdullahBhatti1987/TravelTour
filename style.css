@@ -161,7 +161,13 @@ footer p a{
 
 }
 @media screen and (max-width: 667px) {
-    div.container div.tour{
+    div.container{
+     padding: 20px;
+}
+div.container div.travel{
+padding: 15px;
+}
+div.container div.tour{
         width: 90%;
         flex-direction: column;
         flex-wrap: nowrap;
